@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1505651406 source:d:\docs required\ee669\projects\rlc with decode\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+
+1505709920 source:d:\docs_required\ee669\projects\rlc with decode\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+

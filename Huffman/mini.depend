@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1505689618 source:d:\docs required\ee669\projects\mini\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1505689618 source:d:\docs_required\ee669\projects\mini\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
+1510117707 source:d:\docs_required\ee669\week 1\hw1\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
